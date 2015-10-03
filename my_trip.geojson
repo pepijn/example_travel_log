@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
+    null,
     {
       "type": "Feature",
       "geometry": {
@@ -13,6 +14,22 @@
       "properties": {
         "Location": "Utrecht, The Netherlands",
         "Date": "2015-08-10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.1214201,
+            52.09073739999999
+          ],
+          [
+            14.4213456,
+            50.0862754
+          ]
+        ]
       }
     },
     {
@@ -32,6 +49,22 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4213456,
+            50.0862754
+          ],
+          [
+            13.44009,
+            52.54114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           13.44009,
@@ -41,6 +74,22 @@
       "properties": {
         "Location": "Prenzlauer Berg, Berlin",
         "Date": "2015-08-12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.44009,
+            52.54114
+          ],
+          [
+            9.9936818,
+            53.5510846
+          ]
+        ]
       }
     },
     {
@@ -60,15 +109,17 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          5.1214201,
-          52.09073739999999
+          [
+            9.9936818,
+            53.5510846
+          ],
+          [
+            5.1214201,
+            52.09073739999999
+          ]
         ]
-      },
-      "properties": {
-        "Location": "Utrecht, The Netherlands",
-        "Date": "2015-08-14"
       }
     }
   ]
