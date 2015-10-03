@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "features": [
-    null,
     {
       "type": "Feature",
       "geometry": {
@@ -119,6 +118,33 @@
             5.1214201,
             52.09073739999999
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1214201,
+          52.09073739999999
+        ]
+      },
+      "properties": {
+        "Location": "Utrecht, The Netherlands",
+        "Date": "2015-08-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.1214201,
+            52.09073739999999
+          ],
+          null
         ]
       }
     }
