@@ -134,19 +134,6 @@
         "Location": "Utrecht, The Netherlands",
         "Date": "2015-08-14"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            5.1214201,
-            52.09073739999999
-          ],
-          null
-        ]
-      }
     }
   ]
 }
